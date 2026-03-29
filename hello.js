@@ -5,6 +5,7 @@ console.log(typeof(a))
 var b="hello"
 console.log(b)
 console.log(typeof(b))
-
-
+var c=true
+console.log(c)
+console.log(typeof(c))
 
